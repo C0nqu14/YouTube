@@ -1,0 +1,37 @@
+Nome: João Conquia
+Telefone: 922543704
+Email: joaomanuelconquia@gmail.com
+Nº 32
+Sala nº 05
+
+
+Relatório do Projeto - YouTube
+
+Resumo:
+
+O projeto consiste em criar um clone do YouTube, que inclui a implementação do front-end utilizando HTML, CSS e JavaScript, a modelagem do banco de dados, e o desenvolvimento do back-end utilizando PHP. Até o momento, foram concluídas as telas de loading, shorts, home, signIn e signUp, assim como a lógica e estrutura do banco de dados. O back-end inclui o cadastro de usuários e a funcionalidade de login.
+
+Detalhes do Projeto:
+
+1. Front-end:
+   - Utilização de HTML, CSS e JavaScript para criar as telas do clone do YouTube.
+   - As telas concluídas incluem: loading, shorts, home, signIn e signUp e profile.
+   - O design e layout seguem o estilo do YouTube original.
+
+2. Banco de Dados:
+   - A modelagem do banco de dados foi realizada, incluindo a estrutura lógica e física.
+   - Foram identificadas as tabelas necessárias para armazenar informações como usuários, vídeos, comentários, etc.
+   - A estrutura do banco de dados foi projetada para atender aos requisitos do clone do YouTube.
+
+3. Back-end:
+   - O back-end foi desenvolvido utilizando PHP.
+   - Foi implementado o cadastro de usuários, permitindo que novos usuários se registrem no clone do YouTube.
+   - A funcionalidade de login foi implementada, permitindo que os usuários iniciem a sessão com suas credenciais.
+   -A funcionalidade de upload de fotos, onde o usuário poderá assim fazer uploads das suas fotos de perfil.
+
+Conclusão:
+Até o momento, o projeto do clone do YouTube está progredindo bem. O front-end foi desenvolvido usando HTML, CSS e JavaScript, com as telas de loading, shorts, home,
+signIn e signUp e profile concluídas. A modelagem do banco de dados foi finalizada, garantindo uma estrutura lógica e física adequada. O back-end foi implementado em PHP, incluindo o cadastro de usuários, upload de fotos e a funcionalidade de login.
+
+OBS: O projecto foi desenvolvido para aplicações móveis (Mobile) em uma tela de 375x812, para rodar a mesma deverá se utilizar um simulador mobile como O
+Mobile simulator, para a visualização perfeita do layout deverá se utilizar o IPHONE 11 pró ou o 13 mini.

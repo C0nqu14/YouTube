@@ -1,0 +1,5 @@
+@João Conquia
+
+1- Abrir com um simulador(De preferencia o Mobile Simulator)
+2- Rodar o App em uma Tela de 375x812
+3- Rodar no Iphone 13 mini ou Iphone 11 pro
